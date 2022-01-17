@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 
 -->
-- 💬 Ask me about **Data Solutions** - (JavaScript & Python)
-- 📫 How to reach me: @sonensimon
+- 💬 Ask me about **Data Solutions** - (JavaScript & 🐍 Python)
+- 📫 How to reach me: [@sonensimon](https://twitter.com/sonensimon)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Trust me, Iam always staring a screen  :technologist:
+- ⚡ Fun fact: Trust me, Iam always staring at a screen  :technologist:
 - :earth_africa: Location: :uganda:
 
 ![Onen's GitHub stats](https://github-readme-stats.vercel.app/api?username=simononen&show_icons=true&theme=merko)
