@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 💬 Ask me about **Data Tech Solutions**
+- 💬 Ask me about **Data Tech Solutions** - (JavaScript & Python)
 - 📫 How to reach me: @sonensimon
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Trust me, Iam always staring a screen  :technologist:
