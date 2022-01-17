@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
 
 -->
@@ -17,6 +15,7 @@ Here are some ideas to get you started:
 - 
 - 📫 How to reach me: **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
+- 👯 I’m looking to collaborate on :white_check_mark: **Application APIs,** **Data Intensive Apps**, **Visualizations**  and **Analytics**
 - 🤔 I’m looking for help with **[Web 3](https://en.wikipedia.org/wiki/Web3)**
 - ⚡ Fun fact: Trust me, Iam always staring at a screen  :technologist:
 - :earth_africa: Location: :uganda:
@@ -29,4 +28,5 @@ Here are some ideas to get you started:
 ![MySQL](https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 
 ## Simon's Github Stats
-![Onen's GitHub stats](https://github-readme-stats.vercel.app/api?username=simononen&show_icons=true&theme=merko)
+![Onen's GitHub stats](https://github-readme-stats.vercel.app/api?username=simononen&count_private=true&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simononen&count_private=true&theme=merko)
