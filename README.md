@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Data Solutions** - (**JavaScript & 🐍 Python**)
 - 📫 How to reach me: **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
-- :hammer_and_wrench: Tools: **[Visual Studio Code](https://code.visualstudio.com/)**, **[Tableau](https://www.tableau.com/)**, **[DataGrip](https://www.jetbrains.com/datagrip/)** and **[PyCharm](https://www.jetbrains.com/pycharm/)**
+- :hammer_and_wrench: Tools: **[Visual Studio Code](https://code.visualstudio.com/)**, **[Tableau](https://www.tableau.com/)**, **[DataSpell](https://www.jetbrains.com/datagrip/)**, **[DataGrip](https://www.jetbrains.com/datagrip/)** and **[PyCharm](https://www.jetbrains.com/pycharm/)**
 - 👯 I’m looking to collaborate on :white_check_mark: **Application APIs,** **Data Intensive Apps**, **Visualizations**  and **Analytics**
 - 🤔 I’m looking for help with **[Web 3](https://en.wikipedia.org/wiki/Web3)**
 - ⚡ Fun fact: Trust me, Iam always staring at a screen  :technologist:
