@@ -1,15 +1,5 @@
 ### Hi 👋🏾, I am Simon Onen
 
-<!--
-**simononen/simononen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-
--->
 - 💬 Ask me about **Data Solutions** - (**JavaScript & 🐍 Python**)
 - 📫 How to reach me: DM **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
