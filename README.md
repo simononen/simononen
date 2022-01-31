@@ -2,7 +2,7 @@
 
 <!-- - 🤔 I’m looking for help with **[Web 3](https://en.wikipedia.org/wiki/Web3)** -->
 
-- 💬 Ask me about **Data Solutions** - (JavaScript & 🐍 Python)
+- 💬 Ask me about **Data Solutions** - (JavaScript & Python)
 - 📫 How to reach me: DM **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
 - :hammer_and_wrench: Tools: **[Visual Studio Code](https://code.visualstudio.com/)**, **[Tableau](https://www.tableau.com/)**, **[DataSpell](https://www.jetbrains.com/datagrip/)**, **[DataGrip](https://www.jetbrains.com/datagrip/)** and **[PyCharm](https://www.jetbrains.com/pycharm/)**
