@@ -1,7 +1,5 @@
 ### Hi 👋🏾, I am Simon Onen
 
-<!-- - 🤔 I’m looking for help with **[Web 3](https://en.wikipedia.org/wiki/Web3)** -->
-
 - 💬 Ask me about **Data Solutions** - (JavaScript & Python)
 - 📫 How to reach me: DM **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
