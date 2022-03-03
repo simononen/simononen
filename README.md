@@ -1,7 +1,7 @@
 ### Hi 👋🏾, I am Simon Onen
 
 - 💬 Ask me about **Data Engineering, Data Applications** - (**JavaScript** & **Python**)
-- 📫 How to reach me: DM **[@sonensimon](https://twitter.com/sonensimon)**
+- 📫 How to reach me: DM via **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
 - :hammer_and_wrench: Tools: **[Visual Studio Code](https://code.visualstudio.com/)**, **[Tableau](https://www.tableau.com/)**, **[DataSpell](https://www.jetbrains.com/datagrip/)**, **[DataGrip](https://www.jetbrains.com/datagrip/)** and **[PyCharm](https://www.jetbrains.com/pycharm/)**
 - 👯 I’m looking to collaborate on **Application Web Services(APIs),** **Data Intensive Apps**, **Visualizations**  and **Analytics**
