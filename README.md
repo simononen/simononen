@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/His
 - :hammer_and_wrench: Tools: **[Visual Studio Code](https://code.visualstudio.com/)**, **[Tableau](https://www.tableau.com/)**, **[DataSpell](https://www.jetbrains.com/datagrip/)**, **[DataGrip](https://www.jetbrains.com/datagrip/)** and **[PyCharm](https://www.jetbrains.com/pycharm/)**
 - 👯 I’m looking to collaborate on **Application Web Services(APIs),** **Data Intensive Apps**, **Visualizations**  and **Analytics**
-- Need help with **Web3**.
+- Need help with Web3.
 - ⚡ Fun fact: Trust me, it's always **God's** blessings first.
 - :earth_africa: Current Location: **Uganda** :uganda:
 
