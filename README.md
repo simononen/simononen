@@ -1,4 +1,4 @@
-### Hi 👋🏿, I am Simon Onen
+### Hi 👋🏿, I am Simon Onen.
 
 - 💬 Ask me about **Data Applications** & **Analytics** - (**JavaScript** & **Python**), **Databases**, **Data Engineering** and **Data Science**
 - 📫 How to reach me: DM via **[@sonensimon](https://twitter.com/sonensimon)**
