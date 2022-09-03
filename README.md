@@ -1,5 +1,5 @@
 ### Hi 👋🏿, I am Simon Onen.
-- Building next generation **Data Applications**.
+- Building Next Generation **Data Applications**.
 - 💬 Ask me about **Data Applications** & **Analytics** - (**JavaScript** & **Python**), **Databases**, **Data Preprocessing**, **Data Engineering** and **Data Science**
 - 📫 How to reach me: DM via **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
