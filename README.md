@@ -19,3 +19,6 @@
 ## Simon's Github Stats
 ![Onen's GitHub stats](https://github-readme-stats.vercel.app/api?username=simononen&count_private=true&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simononen&count_private=true&theme=merko)
+
+### Socials
+[Stack overflow](https://stackoverflow.com/users/9217332/onen-simon)
