@@ -1,6 +1,6 @@
 ### Hi 👋🏿, I am Simon Onen 👨🏿 ⌨
 - 👉🏿 Building **Next** Generation **Data Applications**.
-- 💬 Ask me about **Data Solutions** & **Analytics** - (**JavaScript** & **Python** | **R**), **Databases**, **Data Preprocessing**, **Data Engineering** and **Data Science**
+- 💬 Ask me about **Data Solutions** & **Analytics** - (**JavaScript** & **Python** | **R**), **Databases**, **Data Preprocessing**, **Data Engineering** and **Data Science**.
 - 📫 How to reach me: DM via **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
 - :hammer_and_wrench: Tools: **[Visual Studio Code](https://code.visualstudio.com/)**, **[Tableau](https://www.tableau.com/)**, **[DataSpell](https://www.jetbrains.com/datagrip/)**, **[DataGrip](https://www.jetbrains.com/datagrip/)** and **[PyCharm](https://www.jetbrains.com/pycharm/)**
