@@ -1,5 +1,5 @@
 ### Hi 👋🏿, I am Simon Onen.
-- 👉🏿 Building **Next** Generation **Data Applications** and **Solutions**
+- 👉🏿 Building **Next** Generation **Data Applications** and **Solutions**.
 - 💬 Ask me about **Data Solutions**, **Data Visualization**, **Data Storytelling** & **Analytics**, **Databases**, **Data Preprocessing**, **Data Engineering** and **Data Science**.
 - 📫 How to reach me: DM via **[@sonensimon](https://twitter.com/sonensimon)**
 - 😄 Pronouns: He/His
