@@ -1,4 +1,4 @@
-### Hi 👋🏿, I am Simon Onen you found me.
+### Hi 👋🏿, I am Simon Onen you found me 😎.
 - 👉🏿 Building **Next** Generation **Data Applications** and **Solutions**.
 - 💬 Ask me about **Data Solutions**, **Data Visualization**, **Data Storytelling** & **Analytics**, **Databases**, **Data Preprocessing**, **Data Engineering** and **Data Science**.
 - 📫 How to reach me: DM via **[@sonensimon](https://twitter.com/sonensimon)**
